@@ -20,8 +20,8 @@
 ## Preview
 
 <div align="center">
-  <img src="screenshots/firstpage.jpg" width="800">
-  <img src="screenshots/register.jpg" width="800">
-  <img src="screenshots/insidepage.jpg" width="800">
-  <img src="screenshots/incident.jpg" width="800">
+  <img src="screenshot/firstpage.jpg" width="800">
+  <img src="screenshot/register.jpg" width="800">
+  <img src="screenshot/insidepage.jpg" width="800">
+  <img src="screenshot/incident.jpg" width="800">
 </div>
